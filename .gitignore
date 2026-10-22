@@ -1,0 +1,13 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+
+# Ignore the virtual environment folder
+myapp/
+
+# Ignore the local database and environment configs
+db.sqlite3
+.env
+
+# Ignore python runtime caches
+__pycache__/
+*.pyc
+*.log
